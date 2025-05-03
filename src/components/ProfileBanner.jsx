@@ -21,7 +21,7 @@ const ProfileBanner = () => {
         <div className="flex items-center space-x-6">
           <div className="relative rounded-full h-24 w-24 overflow-hidden border-4 border-white shadow-lg hover:scale-105 transition-transform duration-300">
             <img
-              src="public/CompanyIMG/Main.jpg"
+              src="https://media.licdn.com/dms/image/v2/D5635AQHovURc3Tuyzg/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1719441387642?e=1746856800&v=beta&t=o07lhpoRhmXXXe2m86AiHR0Z0QyGN1xvrELq52U7qfk"
               alt="Profile"
               className="h-full w-full object-cover"
             />

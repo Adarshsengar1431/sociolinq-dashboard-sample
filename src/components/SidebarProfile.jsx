@@ -14,7 +14,7 @@ const SidebarProfile = () => {
       >
         <div className="relative rounded-full h-16 w-16 overflow-hidden border-2 border-blue-500">
           <img
-            src="public/CompanyIMG/Main.jpg"
+            src="https://media.licdn.com/dms/image/v2/D5635AQHovURc3Tuyzg/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1719441387642?e=1746856800&v=beta&t=o07lhpoRhmXXXe2m86AiHR0Z0QyGN1xvrELq52U7qfk"
             alt="Profile"
             className="h-full w-full object-cover"
           />
