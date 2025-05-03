@@ -11,7 +11,7 @@ const Header = () => {
       <div className="flex items-center cursor-pointer" onClick={() => navigate('/')}>
         <div className="mr-2 h-10 w-10 bg-white rounded-md flex items-center justify-center shadow-sm">
           <img 
-            src="public/CompanyIMG/d11a6092-5fa7-4813-aa48-376302a5dbb6.png" 
+            src="https://www.sociolinq.com/_next/image?url=%2Fimages%2Flogo%2Flogoo.jpeg&w=256&q=75" 
             alt="Sociolinq"
             className="h-8 w-8"
           />
